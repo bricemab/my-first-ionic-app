@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "my-first-ionic-app",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "ch.bricemab.myFirstIonicApp",
+  "appName": "my-first-ionic-app",
+  "webDir": "public",
+  "bundledWebRuntime": false
 }
